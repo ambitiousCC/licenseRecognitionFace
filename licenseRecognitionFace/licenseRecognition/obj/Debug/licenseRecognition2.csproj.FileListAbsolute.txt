@@ -1,0 +1,77 @@
+C:\Users\Administrator\Desktop\licenseRecognitionFace\licenseRecognition\bin\Debug\licenseRecognition.exe.config
+C:\Users\Administrator\Desktop\licenseRecognitionFace\licenseRecognition\obj\Debug\licenseRecognition.exe
+C:\Users\Administrator\Desktop\licenseRecognitionFace\licenseRecognition\obj\Debug\licenseRecognition.pdb
+F:\创新实践项目1：车辆识别系统\licenseRecognitionFace2\licenseRecognition\bin\Debug\licenseRecognition.exe.config
+F:\创新实践项目1：车辆识别系统\licenseRecognitionFace2\licenseRecognition\obj\Debug\licenseRecognition.exe
+F:\创新实践项目1：车辆识别系统\licenseRecognitionFace2\licenseRecognition\obj\Debug\licenseRecognition.pdb
+F:\创新实践项目1：车辆识别系统\licenseRecognitionFace2\licenseRecognition\obj\Debug\MainWindow.g.cs
+F:\创新实践项目1：车辆识别系统\licenseRecognitionFace2\licenseRecognition\obj\Debug\App.g.cs
+F:\创新实践项目1：车辆识别系统\licenseRecognitionFace2\licenseRecognition\obj\Debug\licenseRecognition_MarkupCompile.cache
+F:\创新实践项目1：车辆识别系统\licenseRecognitionFace2\licenseRecognition\obj\Debug\licenseRecognition_MarkupCompile.lref
+F:\创新实践项目1：车辆识别系统\licenseRecognitionFace2\licenseRecognition\bin\Debug\licenseRecognition.exe
+F:\创新实践项目1：车辆识别系统\licenseRecognitionFace2\licenseRecognition\bin\Debug\licenseRecognition.pdb
+F:\创新实践项目1：车辆识别系统\licenseRecognitionFace2\licenseRecognition\obj\Debug\MainWindow.baml
+F:\创新实践项目1：车辆识别系统\licenseRecognitionFace2\licenseRecognition\obj\Debug\licenseRecognition.g.resources
+F:\创新实践项目1：车辆识别系统\licenseRecognitionFace2\licenseRecognition\obj\Debug\licenseRecognition.Properties.Resources.resources
+F:\创新实践项目1：车辆识别系统\licenseRecognitionFace2\licenseRecognition\obj\Debug\licenseRecognition2.csproj.GenerateResource.Cache
+F:\创新实践项目1：车辆识别系统\licenseRecognitionFace2\licenseRecognition\obj\Debug\licenseRecognition2.csprojResolveAssemblyReference.cache
+G:\创新实践项目1：车辆识别系统\licenseRecognitionFace2\licenseRecognition\bin\Debug\licenseRecognition.exe.config
+G:\创新实践项目1：车辆识别系统\licenseRecognitionFace2\licenseRecognition\bin\Debug\licenseRecognition.exe
+G:\创新实践项目1：车辆识别系统\licenseRecognitionFace2\licenseRecognition\bin\Debug\licenseRecognition.pdb
+G:\创新实践项目1：车辆识别系统\licenseRecognitionFace2\licenseRecognition\obj\Debug\licenseRecognition2.csprojResolveAssemblyReference.cache
+G:\创新实践项目1：车辆识别系统\licenseRecognitionFace2\licenseRecognition\obj\Debug\MainWindow.g.cs
+G:\创新实践项目1：车辆识别系统\licenseRecognitionFace2\licenseRecognition\obj\Debug\App.g.cs
+G:\创新实践项目1：车辆识别系统\licenseRecognitionFace2\licenseRecognition\obj\Debug\licenseRecognition_MarkupCompile.cache
+G:\创新实践项目1：车辆识别系统\licenseRecognitionFace2\licenseRecognition\obj\Debug\licenseRecognition_MarkupCompile.lref
+G:\创新实践项目1：车辆识别系统\licenseRecognitionFace2\licenseRecognition\obj\Debug\MainWindow.baml
+G:\创新实践项目1：车辆识别系统\licenseRecognitionFace2\licenseRecognition\obj\Debug\licenseRecognition.g.resources
+G:\创新实践项目1：车辆识别系统\licenseRecognitionFace2\licenseRecognition\obj\Debug\licenseRecognition.Properties.Resources.resources
+G:\创新实践项目1：车辆识别系统\licenseRecognitionFace2\licenseRecognition\obj\Debug\licenseRecognition2.csproj.GenerateResource.Cache
+G:\创新实践项目1：车辆识别系统\licenseRecognitionFace2\licenseRecognition\obj\Debug\licenseRecognition2.csproj.CoreCompileInputs.cache
+G:\创新实践项目1：车辆识别系统\licenseRecognitionFace2\licenseRecognition\obj\Debug\licenseRecognition.exe
+G:\创新实践项目1：车辆识别系统\licenseRecognitionFace2\licenseRecognition\obj\Debug\licenseRecognition.pdb
+C:\Users\CuiQinPro\Desktop\项目文件\车牌识别 (1)\车牌识别\项目\licenseRecognitionFace2\licenseRecognition\bin\Debug\licenseRecognition.exe.config
+C:\Users\CuiQinPro\Desktop\项目文件\车牌识别 (1)\车牌识别\项目\licenseRecognitionFace2\licenseRecognition\bin\Debug\licenseRecognition.exe
+C:\Users\CuiQinPro\Desktop\项目文件\车牌识别 (1)\车牌识别\项目\licenseRecognitionFace2\licenseRecognition\bin\Debug\licenseRecognition.pdb
+C:\Users\CuiQinPro\Desktop\项目文件\车牌识别 (1)\车牌识别\项目\licenseRecognitionFace2\licenseRecognition\obj\Debug\licenseRecognition2.csprojAssemblyReference.cache
+C:\Users\CuiQinPro\Desktop\项目文件\车牌识别 (1)\车牌识别\项目\licenseRecognitionFace2\licenseRecognition\obj\Debug\MainWindow.g.cs
+C:\Users\CuiQinPro\Desktop\项目文件\车牌识别 (1)\车牌识别\项目\licenseRecognitionFace2\licenseRecognition\obj\Debug\App.g.cs
+C:\Users\CuiQinPro\Desktop\项目文件\车牌识别 (1)\车牌识别\项目\licenseRecognitionFace2\licenseRecognition\obj\Debug\licenseRecognition_MarkupCompile.cache
+C:\Users\CuiQinPro\Desktop\项目文件\车牌识别 (1)\车牌识别\项目\licenseRecognitionFace2\licenseRecognition\obj\Debug\licenseRecognition_MarkupCompile.lref
+C:\Users\CuiQinPro\Desktop\项目文件\车牌识别 (1)\车牌识别\项目\licenseRecognitionFace2\licenseRecognition\obj\Debug\MainWindow.baml
+C:\Users\CuiQinPro\Desktop\项目文件\车牌识别 (1)\车牌识别\项目\licenseRecognitionFace2\licenseRecognition\obj\Debug\licenseRecognition.g.resources
+C:\Users\CuiQinPro\Desktop\项目文件\车牌识别 (1)\车牌识别\项目\licenseRecognitionFace2\licenseRecognition\obj\Debug\licenseRecognition.Properties.Resources.resources
+C:\Users\CuiQinPro\Desktop\项目文件\车牌识别 (1)\车牌识别\项目\licenseRecognitionFace2\licenseRecognition\obj\Debug\licenseRecognition2.csproj.GenerateResource.cache
+C:\Users\CuiQinPro\Desktop\项目文件\车牌识别 (1)\车牌识别\项目\licenseRecognitionFace2\licenseRecognition\obj\Debug\licenseRecognition2.csproj.CoreCompileInputs.cache
+C:\Users\CuiQinPro\Desktop\项目文件\车牌识别 (1)\车牌识别\项目\licenseRecognitionFace2\licenseRecognition\obj\Debug\licenseRecognition.exe
+C:\Users\CuiQinPro\Desktop\项目文件\车牌识别 (1)\车牌识别\项目\licenseRecognitionFace2\licenseRecognition\obj\Debug\licenseRecognition.pdb
+C:\Users\CuiQinPro\Desktop\tools\项目文件\车牌识别 (1)\车牌识别\项目\licenseRecognitionFace2\licenseRecognition\bin\Debug\licenseRecognition.exe.config
+C:\Users\CuiQinPro\Desktop\tools\项目文件\车牌识别 (1)\车牌识别\项目\licenseRecognitionFace2\licenseRecognition\bin\Debug\licenseRecognition.exe
+C:\Users\CuiQinPro\Desktop\tools\项目文件\车牌识别 (1)\车牌识别\项目\licenseRecognitionFace2\licenseRecognition\bin\Debug\licenseRecognition.pdb
+C:\Users\CuiQinPro\Desktop\tools\项目文件\车牌识别 (1)\车牌识别\项目\licenseRecognitionFace2\licenseRecognition\obj\Debug\licenseRecognition2.csprojAssemblyReference.cache
+C:\Users\CuiQinPro\Desktop\tools\项目文件\车牌识别 (1)\车牌识别\项目\licenseRecognitionFace2\licenseRecognition\obj\Debug\MainWindow.g.cs
+C:\Users\CuiQinPro\Desktop\tools\项目文件\车牌识别 (1)\车牌识别\项目\licenseRecognitionFace2\licenseRecognition\obj\Debug\App.g.cs
+C:\Users\CuiQinPro\Desktop\tools\项目文件\车牌识别 (1)\车牌识别\项目\licenseRecognitionFace2\licenseRecognition\obj\Debug\licenseRecognition_MarkupCompile.cache
+C:\Users\CuiQinPro\Desktop\tools\项目文件\车牌识别 (1)\车牌识别\项目\licenseRecognitionFace2\licenseRecognition\obj\Debug\licenseRecognition_MarkupCompile.lref
+C:\Users\CuiQinPro\Desktop\tools\项目文件\车牌识别 (1)\车牌识别\项目\licenseRecognitionFace2\licenseRecognition\obj\Debug\MainWindow.baml
+C:\Users\CuiQinPro\Desktop\tools\项目文件\车牌识别 (1)\车牌识别\项目\licenseRecognitionFace2\licenseRecognition\obj\Debug\licenseRecognition.g.resources
+C:\Users\CuiQinPro\Desktop\tools\项目文件\车牌识别 (1)\车牌识别\项目\licenseRecognitionFace2\licenseRecognition\obj\Debug\licenseRecognition.Properties.Resources.resources
+C:\Users\CuiQinPro\Desktop\tools\项目文件\车牌识别 (1)\车牌识别\项目\licenseRecognitionFace2\licenseRecognition\obj\Debug\licenseRecognition2.csproj.GenerateResource.cache
+C:\Users\CuiQinPro\Desktop\tools\项目文件\车牌识别 (1)\车牌识别\项目\licenseRecognitionFace2\licenseRecognition\obj\Debug\licenseRecognition2.csproj.CoreCompileInputs.cache
+C:\Users\CuiQinPro\Desktop\tools\项目文件\车牌识别 (1)\车牌识别\项目\licenseRecognitionFace2\licenseRecognition\obj\Debug\licenseRecognition.exe
+C:\Users\CuiQinPro\Desktop\tools\项目文件\车牌识别 (1)\车牌识别\项目\licenseRecognitionFace2\licenseRecognition\obj\Debug\licenseRecognition.pdb
+C:\Users\CuiQinPro\Desktop\TEMP\tools\项目文件\车牌识别 (1)\车牌识别\项目\licenseRecognitionFace2\licenseRecognition\bin\Debug\licenseRecognition.exe.config
+C:\Users\CuiQinPro\Desktop\TEMP\tools\项目文件\车牌识别 (1)\车牌识别\项目\licenseRecognitionFace2\licenseRecognition\bin\Debug\licenseRecognition.exe
+C:\Users\CuiQinPro\Desktop\TEMP\tools\项目文件\车牌识别 (1)\车牌识别\项目\licenseRecognitionFace2\licenseRecognition\bin\Debug\licenseRecognition.pdb
+C:\Users\CuiQinPro\Desktop\TEMP\tools\项目文件\车牌识别 (1)\车牌识别\项目\licenseRecognitionFace2\licenseRecognition\obj\Debug\licenseRecognition2.csprojAssemblyReference.cache
+C:\Users\CuiQinPro\Desktop\TEMP\tools\项目文件\车牌识别 (1)\车牌识别\项目\licenseRecognitionFace2\licenseRecognition\obj\Debug\MainWindow.g.cs
+C:\Users\CuiQinPro\Desktop\TEMP\tools\项目文件\车牌识别 (1)\车牌识别\项目\licenseRecognitionFace2\licenseRecognition\obj\Debug\App.g.cs
+C:\Users\CuiQinPro\Desktop\TEMP\tools\项目文件\车牌识别 (1)\车牌识别\项目\licenseRecognitionFace2\licenseRecognition\obj\Debug\licenseRecognition_MarkupCompile.cache
+C:\Users\CuiQinPro\Desktop\TEMP\tools\项目文件\车牌识别 (1)\车牌识别\项目\licenseRecognitionFace2\licenseRecognition\obj\Debug\licenseRecognition_MarkupCompile.lref
+C:\Users\CuiQinPro\Desktop\TEMP\tools\项目文件\车牌识别 (1)\车牌识别\项目\licenseRecognitionFace2\licenseRecognition\obj\Debug\MainWindow.baml
+C:\Users\CuiQinPro\Desktop\TEMP\tools\项目文件\车牌识别 (1)\车牌识别\项目\licenseRecognitionFace2\licenseRecognition\obj\Debug\licenseRecognition.g.resources
+C:\Users\CuiQinPro\Desktop\TEMP\tools\项目文件\车牌识别 (1)\车牌识别\项目\licenseRecognitionFace2\licenseRecognition\obj\Debug\licenseRecognition.Properties.Resources.resources
+C:\Users\CuiQinPro\Desktop\TEMP\tools\项目文件\车牌识别 (1)\车牌识别\项目\licenseRecognitionFace2\licenseRecognition\obj\Debug\licenseRecognition2.csproj.GenerateResource.cache
+C:\Users\CuiQinPro\Desktop\TEMP\tools\项目文件\车牌识别 (1)\车牌识别\项目\licenseRecognitionFace2\licenseRecognition\obj\Debug\licenseRecognition2.csproj.CoreCompileInputs.cache
+C:\Users\CuiQinPro\Desktop\TEMP\tools\项目文件\车牌识别 (1)\车牌识别\项目\licenseRecognitionFace2\licenseRecognition\obj\Debug\licenseRecognition.exe
+C:\Users\CuiQinPro\Desktop\TEMP\tools\项目文件\车牌识别 (1)\车牌识别\项目\licenseRecognitionFace2\licenseRecognition\obj\Debug\licenseRecognition.pdb

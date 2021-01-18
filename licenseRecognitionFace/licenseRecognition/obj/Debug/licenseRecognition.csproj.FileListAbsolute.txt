@@ -1,0 +1,108 @@
+E:\licenseRecognition\code\licenseRecognition\licenseRecognition\bin\Debug\licenseRecognition.exe.config
+E:\licenseRecognition\code\licenseRecognition\licenseRecognition\bin\Debug\licenseRecognition.exe
+E:\licenseRecognition\code\licenseRecognition\licenseRecognition\bin\Debug\licenseRecognition.pdb
+E:\licenseRecognition\code\licenseRecognition\licenseRecognition\obj\Debug\licenseRecognition.csprojResolveAssemblyReference.cache
+E:\licenseRecognition\code\licenseRecognition\licenseRecognition\obj\Debug\MainWindow.g.cs
+E:\licenseRecognition\code\licenseRecognition\licenseRecognition\obj\Debug\App.g.cs
+E:\licenseRecognition\code\licenseRecognition\licenseRecognition\obj\Debug\licenseRecognition_MarkupCompile.cache
+E:\licenseRecognition\code\licenseRecognition\licenseRecognition\obj\Debug\licenseRecognition_MarkupCompile.lref
+E:\licenseRecognition\code\licenseRecognition\licenseRecognition\obj\Debug\MainWindow.baml
+E:\licenseRecognition\code\licenseRecognition\licenseRecognition\obj\Debug\licenseRecognition.g.resources
+E:\licenseRecognition\code\licenseRecognition\licenseRecognition\obj\Debug\licenseRecognition.Properties.Resources.resources
+E:\licenseRecognition\code\licenseRecognition\licenseRecognition\obj\Debug\licenseRecognition.csproj.GenerateResource.Cache
+E:\licenseRecognition\code\licenseRecognition\licenseRecognition\obj\Debug\licenseRecognition.exe
+E:\licenseRecognition\code\licenseRecognition\licenseRecognition\obj\Debug\licenseRecognition.pdb
+E:\licenseRecognition\licenseRecognitionWPF\licenseRecognition\bin\Debug\licenseRecognition.exe.config
+E:\licenseRecognition\licenseRecognitionWPF\licenseRecognition\obj\Debug\licenseRecognition.exe
+E:\licenseRecognition\licenseRecognitionWPF\licenseRecognition\obj\Debug\licenseRecognition.pdb
+D:\courseLicenseRecognition\20170915\licenseRecognitionWPF\licenseRecognition\bin\Debug\licenseRecognition.exe.config
+D:\courseLicenseRecognition\20170915\licenseRecognitionWPF\licenseRecognition\obj\Debug\licenseRecognition.exe
+D:\courseLicenseRecognition\20170915\licenseRecognitionWPF\licenseRecognition\obj\Debug\licenseRecognition.pdb
+D:\courseLicenseRecognition\20170915\licenseRecognitionWPF\licenseRecognition\bin\Debug\licenseRecognition.exe
+D:\courseLicenseRecognition\20170915\licenseRecognitionWPF\licenseRecognition\bin\Debug\licenseRecognition.pdb
+D:\courseLicenseRecognition\20170915\licenseRecognitionWPF\licenseRecognition\obj\Debug\licenseRecognition.csprojResolveAssemblyReference.cache
+D:\courseLicenseRecognition\20170915\licenseRecognitionWPF\licenseRecognition\obj\Debug\MainWindow.g.cs
+D:\courseLicenseRecognition\20170915\licenseRecognitionWPF\licenseRecognition\obj\Debug\App.g.cs
+D:\courseLicenseRecognition\20170915\licenseRecognitionWPF\licenseRecognition\obj\Debug\licenseRecognition_MarkupCompile.cache
+D:\courseLicenseRecognition\20170915\licenseRecognitionWPF\licenseRecognition\obj\Debug\licenseRecognition_MarkupCompile.lref
+D:\courseLicenseRecognition\20170915\licenseRecognitionWPF\licenseRecognition\obj\Debug\MainWindow.baml
+D:\courseLicenseRecognition\20170915\licenseRecognitionWPF\licenseRecognition\obj\Debug\licenseRecognition.g.resources
+D:\courseLicenseRecognition\20170915\licenseRecognitionWPF\licenseRecognition\obj\Debug\licenseRecognition.Properties.Resources.resources
+D:\courseLicenseRecognition\20170915\licenseRecognitionWPF\licenseRecognition\obj\Debug\licenseRecognition.csproj.GenerateResource.Cache
+D:\courseLicenseRecognition\20170915\licenseRecognitionNotFull\licenseRecognition\bin\Debug\licenseRecognition.exe.config
+D:\courseLicenseRecognition\20170915\licenseRecognitionNotFull\licenseRecognition\obj\Debug\licenseRecognition.exe
+D:\courseLicenseRecognition\20170915\licenseRecognitionNotFull\licenseRecognition\obj\Debug\licenseRecognition.pdb
+D:\courseLicenseRecognition\20170915\licenseRecognitionFace\licenseRecognition\bin\Debug\licenseRecognition.exe.config
+D:\courseLicenseRecognition\20170915\licenseRecognitionFace\licenseRecognition\obj\Debug\licenseRecognition.exe
+D:\courseLicenseRecognition\20170915\licenseRecognitionFace\licenseRecognition\obj\Debug\licenseRecognition.pdb
+D:\courseLicenseRecognition\20170915\licenseRecognitionFace\licenseRecognition\bin\Debug\licenseRecognition.exe
+D:\courseLicenseRecognition\20170915\licenseRecognitionFace\licenseRecognition\bin\Debug\licenseRecognition.pdb
+D:\courseLicenseRecognition\20170915\licenseRecognitionFace\licenseRecognition\obj\Debug\licenseRecognition.csprojResolveAssemblyReference.cache
+D:\courseLicenseRecognition\20170915\licenseRecognitionFace\licenseRecognition\obj\Debug\MainWindow.g.cs
+D:\courseLicenseRecognition\20170915\licenseRecognitionFace\licenseRecognition\obj\Debug\App.g.cs
+D:\courseLicenseRecognition\20170915\licenseRecognitionFace\licenseRecognition\obj\Debug\licenseRecognition_MarkupCompile.cache
+D:\courseLicenseRecognition\20170915\licenseRecognitionFace\licenseRecognition\obj\Debug\licenseRecognition_MarkupCompile.lref
+D:\courseLicenseRecognition\20170915\licenseRecognitionFace\licenseRecognition\obj\Debug\MainWindow.baml
+D:\courseLicenseRecognition\20170915\licenseRecognitionFace\licenseRecognition\obj\Debug\licenseRecognition.g.resources
+D:\courseLicenseRecognition\20170915\licenseRecognitionFace\licenseRecognition\obj\Debug\licenseRecognition.Properties.Resources.resources
+D:\courseLicenseRecognition\20170915\licenseRecognitionFace\licenseRecognition\obj\Debug\licenseRecognition.csproj.GenerateResource.Cache
+D:\Documents\Tencent Files\2698627383\FileRecv\licenseRecognitionFace\licenseRecognitionFace\licenseRecognition\bin\Debug\licenseRecognition.exe.config
+D:\Documents\Tencent Files\2698627383\FileRecv\licenseRecognitionFace\licenseRecognitionFace\licenseRecognition\obj\Debug\licenseRecognition.exe
+D:\Documents\Tencent Files\2698627383\FileRecv\licenseRecognitionFace\licenseRecognitionFace\licenseRecognition\obj\Debug\licenseRecognition.pdb
+D:\Documents\Tencent Files\2698627383\FileRecv\licenseRecognitionFace\licenseRecognitionFace\licenseRecognition\bin\Debug\licenseRecognition.exe
+D:\Documents\Tencent Files\2698627383\FileRecv\licenseRecognitionFace\licenseRecognitionFace\licenseRecognition\bin\Debug\licenseRecognition.pdb
+D:\Documents\Tencent Files\2698627383\FileRecv\licenseRecognitionFace\licenseRecognitionFace\licenseRecognition\obj\Debug\licenseRecognition.csprojResolveAssemblyReference.cache
+D:\Documents\Tencent Files\2698627383\FileRecv\licenseRecognitionFace\licenseRecognitionFace\licenseRecognition\obj\Debug\MainWindow.g.cs
+D:\Documents\Tencent Files\2698627383\FileRecv\licenseRecognitionFace\licenseRecognitionFace\licenseRecognition\obj\Debug\App.g.cs
+D:\Documents\Tencent Files\2698627383\FileRecv\licenseRecognitionFace\licenseRecognitionFace\licenseRecognition\obj\Debug\licenseRecognition_MarkupCompile.cache
+D:\Documents\Tencent Files\2698627383\FileRecv\licenseRecognitionFace\licenseRecognitionFace\licenseRecognition\obj\Debug\licenseRecognition_MarkupCompile.lref
+D:\Documents\Tencent Files\2698627383\FileRecv\licenseRecognitionFace\licenseRecognitionFace\licenseRecognition\obj\Debug\MainWindow.baml
+D:\Documents\Tencent Files\2698627383\FileRecv\licenseRecognitionFace\licenseRecognitionFace\licenseRecognition\obj\Debug\licenseRecognition.g.resources
+D:\Documents\Tencent Files\2698627383\FileRecv\licenseRecognitionFace\licenseRecognitionFace\licenseRecognition\obj\Debug\licenseRecognition.Properties.Resources.resources
+D:\Documents\Tencent Files\2698627383\FileRecv\licenseRecognitionFace\licenseRecognitionFace\licenseRecognition\obj\Debug\licenseRecognition.csproj.GenerateResource.Cache
+F:\创新实践项目1：车辆识别系统\licenseRecognitionFace\licenseRecognitionFace\licenseRecognition\bin\Debug\licenseRecognition.exe.config
+F:\创新实践项目1：车辆识别系统\licenseRecognitionFace\licenseRecognitionFace\licenseRecognition\obj\Debug\licenseRecognition.exe
+F:\创新实践项目1：车辆识别系统\licenseRecognitionFace\licenseRecognitionFace\licenseRecognition\obj\Debug\licenseRecognition.pdb
+C:\Users\Administrator\Desktop\licenseRecognitionFace\licenseRecognition\bin\Debug\licenseRecognition.exe.config
+C:\Users\Administrator\Desktop\licenseRecognitionFace\licenseRecognition\obj\Debug\licenseRecognition.exe
+C:\Users\Administrator\Desktop\licenseRecognitionFace\licenseRecognition\obj\Debug\licenseRecognition.pdb
+C:\Users\Administrator\Desktop\licenseRecognitionFace\licenseRecognition\obj\Debug\licenseRecognition.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\licenseRecognitionFace\licenseRecognition\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\licenseRecognitionFace\licenseRecognition\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\licenseRecognitionFace\licenseRecognition\obj\Debug\licenseRecognition_MarkupCompile.cache
+C:\Users\Administrator\Desktop\licenseRecognitionFace\licenseRecognition\obj\Debug\licenseRecognition_MarkupCompile.lref
+C:\Users\Administrator\Desktop\licenseRecognitionFace\licenseRecognition\bin\Debug\licenseRecognition.exe
+C:\Users\Administrator\Desktop\licenseRecognitionFace\licenseRecognition\bin\Debug\licenseRecognition.pdb
+C:\Users\Administrator\Desktop\licenseRecognitionFace\licenseRecognition\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\licenseRecognitionFace\licenseRecognition\obj\Debug\licenseRecognition.g.resources
+C:\Users\Administrator\Desktop\licenseRecognitionFace\licenseRecognition\obj\Debug\licenseRecognition.Properties.Resources.resources
+C:\Users\Administrator\Desktop\licenseRecognitionFace\licenseRecognition\obj\Debug\licenseRecognition.csproj.GenerateResource.Cache
+G:\创新实践项目1：车辆识别系统\licenseRecognitionFace\licenseRecognition\bin\Debug\licenseRecognition.exe.config
+G:\创新实践项目1：车辆识别系统\licenseRecognitionFace\licenseRecognition\bin\Debug\licenseRecognition.exe
+G:\创新实践项目1：车辆识别系统\licenseRecognitionFace\licenseRecognition\bin\Debug\licenseRecognition.pdb
+G:\创新实践项目1：车辆识别系统\licenseRecognitionFace\licenseRecognition\obj\Debug\licenseRecognition.csprojResolveAssemblyReference.cache
+G:\创新实践项目1：车辆识别系统\licenseRecognitionFace\licenseRecognition\obj\Debug\MainWindow.g.cs
+G:\创新实践项目1：车辆识别系统\licenseRecognitionFace\licenseRecognition\obj\Debug\App.g.cs
+G:\创新实践项目1：车辆识别系统\licenseRecognitionFace\licenseRecognition\obj\Debug\licenseRecognition_MarkupCompile.cache
+G:\创新实践项目1：车辆识别系统\licenseRecognitionFace\licenseRecognition\obj\Debug\licenseRecognition_MarkupCompile.lref
+G:\创新实践项目1：车辆识别系统\licenseRecognitionFace\licenseRecognition\obj\Debug\MainWindow.baml
+G:\创新实践项目1：车辆识别系统\licenseRecognitionFace\licenseRecognition\obj\Debug\licenseRecognition.g.resources
+G:\创新实践项目1：车辆识别系统\licenseRecognitionFace\licenseRecognition\obj\Debug\licenseRecognition.Properties.Resources.resources
+G:\创新实践项目1：车辆识别系统\licenseRecognitionFace\licenseRecognition\obj\Debug\licenseRecognition.csproj.GenerateResource.Cache
+G:\创新实践项目1：车辆识别系统\licenseRecognitionFace\licenseRecognition\obj\Debug\licenseRecognition.csproj.CoreCompileInputs.cache
+G:\创新实践项目1：车辆识别系统\licenseRecognitionFace\licenseRecognition\obj\Debug\licenseRecognition.exe
+G:\创新实践项目1：车辆识别系统\licenseRecognitionFace\licenseRecognition\obj\Debug\licenseRecognition.pdb
+F:\创新实践项目1：车辆识别系统\licenseRecognitionFace\licenseRecognition\bin\Debug\licenseRecognition.exe.config
+F:\创新实践项目1：车辆识别系统\licenseRecognitionFace\licenseRecognition\obj\Debug\licenseRecognition.exe
+F:\创新实践项目1：车辆识别系统\licenseRecognitionFace\licenseRecognition\obj\Debug\licenseRecognition.pdb
+F:\创新实践项目1：车辆识别系统\licenseRecognitionFace\licenseRecognition\bin\Debug\licenseRecognition.exe
+F:\创新实践项目1：车辆识别系统\licenseRecognitionFace\licenseRecognition\bin\Debug\licenseRecognition.pdb
+F:\创新实践项目1：车辆识别系统\licenseRecognitionFace\licenseRecognition\obj\Debug\licenseRecognition.csprojResolveAssemblyReference.cache
+F:\创新实践项目1：车辆识别系统\licenseRecognitionFace\licenseRecognition\obj\Debug\MainWindow.g.cs
+F:\创新实践项目1：车辆识别系统\licenseRecognitionFace\licenseRecognition\obj\Debug\App.g.cs
+F:\创新实践项目1：车辆识别系统\licenseRecognitionFace\licenseRecognition\obj\Debug\licenseRecognition_MarkupCompile.cache
+F:\创新实践项目1：车辆识别系统\licenseRecognitionFace\licenseRecognition\obj\Debug\licenseRecognition_MarkupCompile.lref
+F:\创新实践项目1：车辆识别系统\licenseRecognitionFace\licenseRecognition\obj\Debug\MainWindow.baml
+F:\创新实践项目1：车辆识别系统\licenseRecognitionFace\licenseRecognition\obj\Debug\licenseRecognition.g.resources
+F:\创新实践项目1：车辆识别系统\licenseRecognitionFace\licenseRecognition\obj\Debug\licenseRecognition.Properties.Resources.resources
+F:\创新实践项目1：车辆识别系统\licenseRecognitionFace\licenseRecognition\obj\Debug\licenseRecognition.csproj.GenerateResource.Cache
